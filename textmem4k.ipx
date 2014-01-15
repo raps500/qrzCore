@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DiamondModule name="textmem4k" module="textmem4k" VendorName="Lattice Semiconductor Corporation" generator="IPexpress" date="2013 09 11 10:45:40.161" version="6.1" type="Module" synthesis="synplify" source_format="Verilog HDL">
+  <Package>
+		<File name="tb_textmem4k_tmpl.v" type="testbench_verilog" modified="2013 09 11 10:45:38.044"/>
+		<File name="textmem4k.lpc" type="lpc" modified="2013 09 11 10:45:37.875"/>
+		<File name="textmem4k.v" type="top_level_verilog" modified="2013 09 11 10:45:38.030"/>
+		<File name="textmem4k_tmpl.v" type="template_verilog" modified="2013 09 11 10:45:38.033"/>
+		<File name="x:/026_forth/02_lattice/simpleforth/textmem2k.mem" type="mem" modified="2013 09 11 10:45:32.400"/>
+  </Package>
+</DiamondModule>

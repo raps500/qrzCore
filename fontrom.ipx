@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DiamondModule name="fontrom" module="fontrom" VendorName="Lattice Semiconductor Corporation" generator="IPexpress" date="2013 09 09 17:11:13.423" version="5.0" type="Module" synthesis="synplify" source_format="Verilog HDL">
+  <Package>
+		<File name="fontrom.lpc" type="lpc" modified="2013 09 09 17:11:11.000"/>
+		<File name="fontrom.v" type="top_level_verilog" modified="2013 09 09 17:11:11.000"/>
+		<File name="fontrom_tmpl.v" type="template_verilog" modified="2013 09 09 17:11:11.000"/>
+		<File name="tb_fontrom_tmpl.v" type="testbench_verilog" modified="2013 09 09 17:11:11.000"/>
+		<File name="y:/02_elektronik/026_forth/02_lattice/simpleforth/font256x16l.mem" type="mem" modified="2013 09 05 07:47:20.000"/>
+  </Package>
+</DiamondModule>

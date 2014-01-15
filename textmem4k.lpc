@@ -1,0 +1,49 @@
+[Device]
+Family=machxo2
+PartType=LCMXO2-7000HE
+PartName=LCMXO2-7000HE-4TG144C
+SpeedGrade=4
+Package=TQFP144
+OperatingCondition=COM
+Status=S
+
+[IP]
+VendorName=Lattice Semiconductor Corporation
+CoreType=LPM
+CoreStatus=Demo
+CoreName=RAM_DP
+CoreRevision=6.1
+ModuleName=textmem4k
+SourceFormat=Verilog HDL
+ParameterFileVersion=1.0
+Date=09/11/2013
+Time=10:45:37
+
+[Parameters]
+Verilog=1
+VHDL=0
+EDIF=1
+Destination=Synplicity
+Expression=BusA(0 to 7)
+Order=Big Endian [MSB:LSB]
+IO=0
+RAddress=4096
+RData=8
+WAddress=4096
+WData=8
+enByte=0
+ByteSize=9
+OutputEn=0
+ClockEn=0
+Optimization=Speed
+Reset=Sync
+Reset1=Sync
+Init=mem
+MemFile=x:/026_forth/02_lattice/simpleforth/textmem2k.mem
+MemFormat=orca
+EnECC=0
+Pipeline=0
+init_data=0
+
+[FilesGenerated]
+x:/026_forth/02_lattice/simpleforth/textmem2k.mem=mem

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DiamondModule name="ram4kdp" module="ram4kdp" VendorName="Lattice Semiconductor Corporation" generator="IPexpress" date="2013 11 12 20:12:55.928" version="7.1" type="Module" synthesis="synplify" source_format="Verilog HDL">
+  <Package>
+		<File name="ram4kdp.lpc" type="lpc" modified="2013 11 12 20:12:53.000"/>
+		<File name="ram4kdp.v" type="top_level_verilog" modified="2013 11 12 20:12:53.000"/>
+		<File name="ram4kdp_tmpl.v" type="template_verilog" modified="2013 11 12 20:12:53.000"/>
+		<File name="tb_ram4kdp_tmpl.v" type="testbench_verilog" modified="2013 11 12 20:12:53.000"/>
+		<File name="y:/02_elektronik/026_forth/02_lattice/simpleforth/testpgm.mem" type="mem" modified="2013 11 12 20:12:43.000"/>
+  </Package>
+</DiamondModule>
